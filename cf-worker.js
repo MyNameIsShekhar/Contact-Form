@@ -1,8 +1,7 @@
 // Bot API Key
-const BOT_TOKEN = "123456789:abcdefghijklmnopqrstuvwxyz";
-
+const BOT_TOKEN = "6324057598:AAGQL9l3OEqelotYD-9IshMa3H3JGx4_MMA"
 // Your Telegram USER ID
-const CHATID = "981558170";
+const CHATID = "6765826972";
 
 addEventListener("fetch", (event) => {
   event.respondWith(handleRequest(event.request));
